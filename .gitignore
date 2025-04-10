@@ -1,3 +1,5 @@
+# .gitignore
 .venv/
 venv/
 .vscode/
+.env
